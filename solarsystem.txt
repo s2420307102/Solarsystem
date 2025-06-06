@@ -6,3 +6,4 @@ Erde
 Mars
 Jupiter
 Saturn
+Uranus
