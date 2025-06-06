@@ -11,3 +11,4 @@ Jupiter
 Saturn
 Uranus
 Pluto
+Eris
