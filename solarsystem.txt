@@ -1,2 +1,4 @@
 Sonne
+Merkur
+Venus
 Erde
