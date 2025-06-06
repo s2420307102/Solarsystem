@@ -4,6 +4,8 @@ Venus
 Erde
 - Mond
 Mars
+- Phobos
+- Deimos
 Jupiter
 Saturn
 Uranus
